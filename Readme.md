@@ -110,12 +110,4 @@ To make this assignment stand out:
 - Focused on deploying robust dashboards and modular ML apps  
 - [LinkedIn](https://www.linkedin.com/in/anuj-mundu) | [GitHub](https://github.com/anujmundu) | [LeetCode](https://leetcode.com/anujmundu)
 
----
 
-## 🏁 Submission Checklist
-
-- [x] Final equation in LaTeX format ✅  
-- [x] Estimated parameters printed ✅  
-- [x] Curve plot saved and embedded ✅  
-- [x] README with approach, enhancements, and visuals ✅  
-- [x] Code reproducible in both script and notebook ✅
